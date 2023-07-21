@@ -1,0 +1,2 @@
+
+std # ID # INT # Primary # key # ID # NAME # STR

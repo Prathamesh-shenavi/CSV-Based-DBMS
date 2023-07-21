@@ -1,0 +1,10 @@
+create_table std (id,name,rollno);
+create_table emp (id,name,empno);
+insert_table std (1,A,40);
+insert_table std (2,b,4);
+insert_table std (3,c,44);
+insert_table emp (1,er,4);
+delete_from std where (id==2) ;
+delete_from emp where (id==2) ;
+delete_table emp
+
