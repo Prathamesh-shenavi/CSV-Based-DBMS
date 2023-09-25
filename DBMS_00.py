@@ -824,8 +824,7 @@ def help():
 ch=0
 line=[]
 a=" "
-print("\n======= WELCOME TO VIT SQL ========")
-print("\n\t\tTY-D GRP 71 DBMS CP\n\n-----------------------------------")
+print("\n======= WELCOME TO PS SQL ========")
 while ch!=1:
     line = [input("\n$ Enter Your Query: ")]
     #print(type(line))
